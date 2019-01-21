@@ -5,7 +5,11 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-
+/**
+ * 
+ * @author ilkovjr
+ * a POJO Entity class for the car
+ */
 @Entity
 public class Car {
 	
